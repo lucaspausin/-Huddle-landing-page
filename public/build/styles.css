@@ -755,6 +755,10 @@ video {
   transition-duration: 700ms;
 }
 
+.duration-500{
+  transition-duration: 500ms;
+}
+
 .hover\:cursor-pointer:hover{
   cursor: pointer;
 }
